@@ -1,0 +1,10 @@
+file '/root/hertaaa/plugins/Stickers/tmp/frame0.mp4'
+duration 0.5
+file '/root/hertaaa/plugins/Stickers/tmp/frame1.mp4'
+duration 0.5
+file '/root/hertaaa/plugins/Stickers/tmp/frame2.mp4'
+duration 0.5
+file '/root/hertaaa/plugins/Stickers/tmp/frame3.mp4'
+duration 0.5
+file '/root/hertaaa/plugins/Stickers/tmp/frame3.mp4'
+duration 3
