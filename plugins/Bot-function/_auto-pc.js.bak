@@ -1,0 +1,20 @@
+let handler = async (m, { conn }) => {
+  let user = db.data.users[m.sender];
+
+  if (!m.isGroup && user) {
+    if (user.isPremium && new Date() - user.pc < 86400000) return;
+
+    conn.reply(
+      m.chat,
+      `Hai ${m.ucapanWaktu} kak *${m.pushname}*, ada yang bisa aku bantu? Silakan ketik .menu`,
+      fkontak
+    );
+    user.pc = new Date() * 1;
+  }
+};
+
+handler.before = async (m, { conn }) => {
+  return handler(m, { conn });
+};
+
+export default handler;
