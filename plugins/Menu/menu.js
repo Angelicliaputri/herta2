@@ -89,7 +89,7 @@ if(!q){
   };
 
   const menu = `
-  hai kak, ${nameBot} adalah bot whatsapp multidevice
+  hai kak, ${global.botName} adalah bot whatsapp multidevice
 yang siap membantu aktifitas kamu
 
 📊 *Stats :*
