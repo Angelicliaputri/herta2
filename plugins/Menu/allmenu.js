@@ -99,7 +99,7 @@ const publik = `${global.public}`
  
     // Menu yang ditampilkan kepada pengguna
     const menu =`
-hai, ${global.botName} adalah bot whatsapp multidevice yang siap membantu aktifitas kamu
+hai, herta adalah bot whatsapp multidevice yang siap membantu aktifitas kamu
 
 📊 *Stats :*
 ▸ Running on: ${runWith}
@@ -206,7 +206,7 @@ const blokedFilesAll = db.data.blockcmd.map(item => item.cmd);
 
 const outputStringAll = displayFilesByFolderAll(pluginsFolderPath, excludedFolders, premiumFilesAll, limitFilesAll, errorFilesAll, blokedFilesAll, true);
 const menuAll = `
-hai, ${global.botName} adalah bot whatsapp multidevice yang siap membantu aktifitas kamu
+hai, herta adalah bot whatsapp multidevice yang siap membantu aktifitas kamu
 
 📊 *Stats :*
 ▸ Running on: ${runWith}
