@@ -37,7 +37,7 @@ let handler = async (m, { conn }) => {
             externalAdReply: {
                 title: `✨ ${botName} || ${authorName}`,
                 body: 'Developer & Owner Bot',
-                thumbnailUrl: "https://files.catbox.moe/qz1wnx.jpg", // ✅ Gambar Profil Owner
+                thumbnailUrl: "https://files.catbox.moe/6jd3uc.jpg", // ✅ Gambar Profil Owner
                 sourceUrl: website,
                 mediaType: 1,
                 renderLargerThumbnail: true
