@@ -54,7 +54,7 @@ Kamu dapat membeli limit dengan ${prefix}buy limit`;
         // Kirim tanpa tombol untuk hasil klaim
         return conn.sendMessage(m.chat, {
             document: fs.readFileSync("./package.json"),
-            fileName: 'Create By SanzOnly',
+            fileName: 'Create By Lycaaa',
             fileLength: "99999999999999",
             pageCount: 99999,
             caption: teks,
