@@ -10,14 +10,14 @@ const stringSimilarity = require("string-similarity");
 global.nomerOwner = "6285840098044";
 global.nomerOwner2 = "6285840098044";
 global.nomerBot = "6288272179918";
-global.botName = "Ceciliaaa"
+global.botName = "TheHertaa"
 global.ownerName = "© Lycaaa"; 
 global.sgc = 'https://whatsapp.com/channel/0029VafEhDUIXnlyGgMSgH2u'
 
 
 //======= BOT SETTINGS ======\\
 global.pairingCode = true // true / false
-global.botName = "Ceciliaaa"
+global.botName = "TheHertaa"
 global.session = "session" 
 global.runWith = "Heroku"
 global.language = "id"
@@ -28,9 +28,9 @@ global.fake = botName
 global.Console = false
 global.print = true
 global.copyright = `© ${botName}`
-global.fake1 = "© Lycaaa X Ceciliaaa"
+global.fake1 = "© Lycaaa X TheHertaa"
 global.packName = `Bot Name : ${botName}\nBot Number : ${nomerBot}`
-global.authorName = '© Ceciliaaa'
+global.authorName = '© TheHertaa'
 global.autoblockcmd = false;
 global.ownerBot = `${nomerOwner}@s.whatsapp.net`
 global.gamewaktu = 60;
