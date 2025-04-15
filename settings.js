@@ -61,7 +61,7 @@ global.Exif = {
 }
 
 global.fotoRandom = [
-  "https://files.catbox.moe/s8vzlr.jpg",
+  "https://files.catbox.moe/hsbvd7.jpg",
 ];
 
 
