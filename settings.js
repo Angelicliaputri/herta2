@@ -16,7 +16,7 @@ global.sgc = 'https://whatsapp.com/channel/0029VafEhDUIXnlyGgMSgH2u'
 
 
 //======= BOT SETTINGS ======\\
-global.pairingCode = true // true / false
+global.pairingCode = false // true / false
 global.botName = "TheHertaa"
 global.session = "session" 
 global.runWith = "Heroku"
